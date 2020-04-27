@@ -29,26 +29,26 @@ $('.datatable-historico-storie').DataTable({
             "zeroRecords": null,
             "emptyTable": null,
             "aria": {
-                "sortAscending": ": Activar para ordenar la columna de manera ascendente",
-                "sortDescending": ": Activar para ordenar la columna de manera descendente"
+                "sortAscending": ": Ativar para ordenar a coluna de maneira ascendente",
+                "sortDescending": ": Ativar para ordenar a coluna de maneira descendente"
             },
             "buttons": {
                 "create": "Novo",
-                "edit": "Cambiar",
+                "edit": "Editar",
                 "remove": "Apagar",
-                "copy": "COPIAR",
+                "copy": "Copiar",
                 "csv": "CSV",
                 "excel": "tabla Excel",
                 "pdf": "documento PDF",
-                "print": "IMPRIMIR",
-                "colvis": "Visibilidad columnas",
-                "collection": "Colección",
+                "print": "Imprimir",
+                "colvis": "Visibilidade colunas",
+                "collection": "Coleção",
                 "upload": "Selecione fichero...."
             },
             "select": {
                 "rows": {
                     _: '%d filas seleccionadas',
-                    0: 'clic fila para seleccionar',
+                    0: 'clica para selecionar',
                     1: 'uma linha selecionada'
                 }
             },
