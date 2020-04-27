@@ -1,7 +1,7 @@
 # config-datatable
 
 ```JS
-$('.datatable-historico-storie').DataTable({
+$('.datatable').DataTable({
         "iDisplayLength": 25,
         "lengthMenu": [25, 75, 125],
         "pageLength": 25,
